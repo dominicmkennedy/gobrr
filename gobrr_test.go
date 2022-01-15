@@ -63,7 +63,6 @@ func TestCopyFileToMemfile(t *testing.T) {
 	}
 }
 
-//TODO
 func TestCopyFilePathToMemfile(t *testing.T) {
 	data := []byte("abcdefghijklmnopqrstuvwxyz")
 	buf := make([]byte, len(data))
