@@ -1,4 +1,4 @@
-package gobrr
+package main
 
 import (
 	"fmt"
