@@ -1,5 +1,3 @@
-// +build linux, darwin
-
 package gobrr
 
 import (
